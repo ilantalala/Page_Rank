@@ -1,0 +1,3 @@
+C:/Users/ilan talala/CLionProjects/Page_Rank/cmake-build-debug/CMakeFiles/Page_Rank.dir
+C:/Users/ilan talala/CLionProjects/Page_Rank/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ilan talala/CLionProjects/Page_Rank/cmake-build-debug/CMakeFiles/rebuild_cache.dir
